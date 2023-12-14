@@ -16,8 +16,6 @@
   <!-- Updated tools section with relevant languages -->
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/arm.png" alt="arm" width="50" height="50"/> </a>
-  <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/matlab.png" alt="matlab" width="50" height="50"/> </a>
   <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="50" height="50"/> </a>
   <!-- Add more relevant tools as needed -->
 </p>
